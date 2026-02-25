@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Sleep Inhibitor
+Comment=Prevent system sleep using systemd-inhibit
+Exec=python3 /path/to/main.py
+Icon=preferences-desktop-notification
+Terminal=false
+Categories=System;Utility;Qt;KDE;
+Keywords=sleep;inhibit;systemd;power;
+StartupNotify=true
